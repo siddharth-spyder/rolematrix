@@ -1,0 +1,322 @@
+{
+  "roles": [
+    {
+      "role_id": "role_001",
+      "role_name": "Full Stack Developer",
+      "required_skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "Git",
+        "REST API",
+        "HTML",
+        "CSS"
+      ],
+      "preferred_skills": [
+        "TypeScript",
+        "MongoDB",
+        "Docker",
+        "AWS",
+        "CI/CD",
+        "GraphQL"
+      ]
+    },
+    {
+      "role_id": "role_002",
+      "role_name": "Data Scientist",
+      "required_skills": [
+        "Python",
+        "Machine Learning",
+        "Pandas",
+        "NumPy",
+        "SQL",
+        "Statistics",
+        "Data Analysis"
+      ],
+      "preferred_skills": [
+        "TensorFlow",
+        "PyTorch",
+        "Scikit-learn",
+        "Data Visualization",
+        "Tableau",
+        "R",
+        "Deep Learning",
+        "NLP"
+      ]
+    },
+    {
+      "role_id": "role_003",
+      "role_name": "DevOps Engineer",
+      "required_skills": [
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "Linux",
+        "AWS",
+        "Jenkins",
+        "Git"
+      ],
+      "preferred_skills": [
+        "Terraform",
+        "Ansible",
+        "Python",
+        "Bash",
+        "Monitoring",
+        "Prometheus",
+        "Grafana"
+      ]
+    },
+    {
+      "role_id": "role_004",
+      "role_name": "Frontend Developer",
+      "required_skills": [
+        "JavaScript",
+        "React",
+        "HTML",
+        "CSS",
+        "Git",
+        "REST API"
+      ],
+      "preferred_skills": [
+        "TypeScript",
+        "Redux",
+        "Webpack",
+        "Testing",
+        "Jest",
+        "Vue.js",
+        "Angular"
+      ]
+    },
+    {
+      "role_id": "role_005",
+      "role_name": "Backend Developer",
+      "required_skills": [
+        "Python",
+        "SQL",
+        "REST API",
+        "Git",
+        "Database Design",
+        "API Development"
+      ],
+      "preferred_skills": [
+        "Django",
+        "Flask",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "Docker",
+        "Microservices"
+      ]
+    },
+    {
+      "role_id": "role_006",
+      "role_name": "Cloud Architect",
+      "required_skills": [
+        "AWS",
+        "Cloud Architecture",
+        "Networking",
+        "Security",
+        "Scalability",
+        "System Design"
+      ],
+      "preferred_skills": [
+        "Azure",
+        "GCP",
+        "Terraform",
+        "Kubernetes",
+        "Serverless",
+        "Lambda",
+        "CloudFormation"
+      ]
+    },
+    {
+      "role_id": "role_007",
+      "role_name": "Data Engineer",
+      "required_skills": [
+        "Python",
+        "SQL",
+        "ETL",
+        "Data Pipeline",
+        "Apache Spark",
+        "Data Warehousing"
+      ],
+      "preferred_skills": [
+        "Airflow",
+        "Kafka",
+        "Snowflake",
+        "AWS",
+        "BigQuery",
+        "Databricks",
+        "Hadoop"
+      ]
+    },
+    {
+      "role_id": "role_008",
+      "role_name": "Machine Learning Engineer",
+      "required_skills": [
+        "Python",
+        "Machine Learning",
+        "TensorFlow",
+        "PyTorch",
+        "Deep Learning",
+        "Model Deployment"
+      ],
+      "preferred_skills": [
+        "Kubernetes",
+        "Docker",
+        "MLOps",
+        "AWS",
+        "Computer Vision",
+        "NLP",
+        "Scikit-learn"
+      ]
+    },
+    {
+      "role_id": "role_009",
+      "role_name": "Product Manager",
+      "required_skills": [
+        "Product Management",
+        "Stakeholder Management",
+        "Requirements Gathering",
+        "Agile",
+        "User Stories",
+        "Communication"
+      ],
+      "preferred_skills": [
+        "JIRA",
+        "SQL",
+        "Data Analysis",
+        "Wireframing",
+        "A/B Testing",
+        "User Research",
+        "Roadmapping"
+      ]
+    },
+    {
+      "role_id": "role_010",
+      "role_name": "UI/UX Designer",
+      "required_skills": [
+        "UI/UX Design",
+        "Figma",
+        "Prototyping",
+        "User Research",
+        "Wireframing",
+        "Design Systems"
+      ],
+      "preferred_skills": [
+        "Sketch",
+        "Adobe XD",
+        "HTML",
+        "CSS",
+        "Usability Testing",
+        "Interaction Design",
+        "Accessibility"
+      ]
+    },
+    {
+      "role_id": "role_011",
+      "role_name": "QA Engineer",
+      "required_skills": [
+        "Test Automation",
+        "Selenium",
+        "Unit Testing",
+        "Integration Testing",
+        "Bug Tracking",
+        "Test Cases"
+      ],
+      "preferred_skills": [
+        "Cypress",
+        "Jest",
+        "PyTest",
+        "API Testing",
+        "Performance Testing",
+        "JIRA",
+        "CI/CD"
+      ]
+    },
+    {
+      "role_id": "role_012",
+      "role_name": "Mobile Developer",
+      "required_skills": [
+        "Mobile Development",
+        "React Native",
+        "JavaScript",
+        "Git",
+        "REST API",
+        "Mobile UI"
+      ],
+      "preferred_skills": [
+        "Flutter",
+        "iOS Development",
+        "Android Development",
+        "Swift",
+        "Kotlin",
+        "Firebase",
+        "Push Notifications"
+      ]
+    },
+    {
+      "role_id": "role_013",
+      "role_name": "Cybersecurity Analyst",
+      "required_skills": [
+        "Cybersecurity",
+        "Network Security",
+        "Threat Analysis",
+        "Security Auditing",
+        "Incident Response"
+      ],
+      "preferred_skills": [
+        "Penetration Testing",
+        "OWASP",
+        "Firewall",
+        "Encryption",
+        "SIEM",
+        "Compliance",
+        "Risk Management"
+      ]
+    },
+    {
+      "role_id": "role_014",
+      "role_name": "Business Analyst",
+      "required_skills": [
+        "Requirements Gathering",
+        "Data Analysis",
+        "SQL",
+        "Excel",
+        "Business Intelligence",
+        "Communication"
+      ],
+      "preferred_skills": [
+        "Tableau",
+        "Power BI",
+        "JIRA",
+        "Process Mapping",
+        "Stakeholder Management",
+        "Financial Analysis",
+        "Documentation"
+      ]
+    },
+    {
+      "role_id": "role_015",
+      "role_name": "Site Reliability Engineer",
+      "required_skills": [
+        "SRE",
+        "Linux",
+        "Monitoring",
+        "Incident Response",
+        "Automation",
+        "Scripting"
+      ],
+      "preferred_skills": [
+        "Kubernetes",
+        "Docker",
+        "Prometheus",
+        "Grafana",
+        "Python",
+        "Terraform",
+        "On-call Experience"
+      ]
+    }
+  ]
+}

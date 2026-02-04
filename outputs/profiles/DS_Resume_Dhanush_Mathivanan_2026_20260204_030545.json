@@ -1,0 +1,99 @@
+{
+  "candidate_id": "candidate_20260204030545_DS_Resume_Dhanush_Mathivanan_2026.pdf",
+  "filename": "DS_Resume_Dhanush_Mathivanan_2026.pdf",
+  "timestamp": "2026-02-04T03:05:45.202659",
+  "raw_text": "Dhanush Mathivanan\nArlington, VA \u2022 mdiamdhanush18@gmail.com \u2022 240-385-2816 \u2022 GitHub \u2022 LinkedIn \u2022 Tech Blog\nAWS-Cer3fied Cloud & Data Solu3ons Expert | 9+ Years in Microservices, Data Pipelines, and Full-Stack Development\nTECHNICAL SKILLS\n\u2022 Programming: Python, R Studio, SQL, TypeScript, JavaScript, AcOonScript\n\u2022 Frameworks & Tools: Node.js, Express.js, Angular, Terraform, Electron, Redis, Ngrx Redux\n\u2022 Databases: DynamoDB, MySQL, MongoDB, SQLite\n\u2022 Cloud & DevOps: AWS (Lambda, CDK, S3, API Gateway, CloudFormaOon, Cognito, SQS/SNS), Jenkins, Docker\n\u2022 Web Technologies: HTML5, CSS3, JSON, XML, Bootstrap, jQuery\n\u2022 Tes3ng & Debugging: AWS CloudWatch, Dynatrace, Mocha/Chai, Jasmine/Karma, Chrome DevTools\n\u2022 Version Control: Git, SVN\n\u2022 Cer3fica3ons: AWS CerOfied SoluOons Architect, Associate - SAA-C03 (2024 - 2027), AWS CerOfied Developer,\nAssociate - DVA-C02 (2023\u20132026), IntroducOon to R (DataCamp - 2025)\nEDUCATION\nThe George Washington University (GPA: 4.0) Washington, DC\nMaster of Science, Da...",
+  "raw_text_length": 4037,
+  "extracted_skills": [
+    "AWS",
+    "Agile",
+    "Angular",
+    "Data Analysis",
+    "Data Science",
+    "Data Warehousing",
+    "Debugging",
+    "DevOps",
+    "Docker",
+    "DynamoDB",
+    "Excel",
+    "Express.js",
+    "Full-stack Development",
+    "Git",
+    "GitHub",
+    "JavaScript",
+    "Jenkins",
+    "Lambda",
+    "Machine Learning",
+    "Mentoring",
+    "Microservices",
+    "MongoDB",
+    "MySQL",
+    "NLP",
+    "Node.js",
+    "Python",
+    "R",
+    "Redis",
+    "SQL",
+    "Scalability",
+    "Serverless",
+    "Terraform",
+    "TypeScript",
+    "Version Control"
+  ],
+  "total_skills": 34,
+  "jd_match": {
+    "confidence": 0,
+    "recommendation": "Not now",
+    "matched_skills": [],
+    "missing_skills": [
+      "Data Pipeline"
+    ],
+    "coverage": 0.0,
+    "matched_count": 0,
+    "total_jd_skills": 1
+  },
+  "alternate_roles": [
+    {
+      "role_id": "role_002",
+      "role_name": "Data Scientist",
+      "role_score": 57,
+      "matched_skills": [
+        "Data Analysis",
+        "Machine Learning",
+        "Python",
+        "SQL"
+      ],
+      "matched_count": 4,
+      "total_required": 7,
+      "coverage": 0.57
+    },
+    {
+      "role_id": "role_003",
+      "role_name": "DevOps Engineer",
+      "role_score": 57,
+      "matched_skills": [
+        "AWS",
+        "Docker",
+        "Git",
+        "Jenkins"
+      ],
+      "matched_count": 4,
+      "total_required": 7,
+      "coverage": 0.57
+    },
+    {
+      "role_id": "role_001",
+      "role_name": "Full Stack Developer",
+      "role_score": 50,
+      "matched_skills": [
+        "Git",
+        "JavaScript",
+        "Node.js",
+        "SQL"
+      ],
+      "matched_count": 4,
+      "total_required": 8,
+      "coverage": 0.5
+    }
+  ]
+}
